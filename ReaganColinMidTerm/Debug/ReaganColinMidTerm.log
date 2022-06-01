@@ -1,0 +1,4 @@
+﻿  Picklist.cpp
+C:\Users\colin\Documents\Sinclair\C++ Software Development\Midterm\ReaganColinMidTerm\Picklist.cpp(125,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\colin\Documents\Sinclair\C++ Software Development\Midterm\ReaganColinMidTerm\Picklist.cpp(186,20): warning C4018: '<': signed/unsigned mismatch
+  ReaganColinMidTerm.vcxproj -> C:\Users\colin\Documents\Sinclair\C++ Software Development\Midterm\ReaganColinMidTerm\Debug\ReaganColinMidTerm.exe
