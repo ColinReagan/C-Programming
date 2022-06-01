@@ -1,0 +1,6 @@
+﻿  AdvancedFilesSource.cpp
+C:\Users\colin\Documents\Sinclair\C++ Software Development\Week 10\Assignment\Advanced File Operations\AdvancedFilesSource.cpp(168,9): warning C4101: 'price': unreferenced local variable
+C:\Users\colin\Documents\Sinclair\C++ Software Development\Week 10\Assignment\Advanced File Operations\AdvancedFilesSource.cpp(167,7): warning C4101: 'name': unreferenced local variable
+C:\Users\colin\Documents\Sinclair\C++ Software Development\Week 10\Assignment\Advanced File Operations\AdvancedFilesSource.cpp(169,6): warning C4101: 'quantity': unreferenced local variable
+C:\Users\colin\Documents\Sinclair\C++ Software Development\Week 10\Assignment\Advanced File Operations\AdvancedFilesSource.cpp(166,7): warning C4101: 'number': unreferenced local variable
+  Advanced File Operations.vcxproj -> C:\Users\colin\Documents\Sinclair\C++ Software Development\Week 10\Assignment\Advanced File Operations\Debug\Advanced File Operations.exe
