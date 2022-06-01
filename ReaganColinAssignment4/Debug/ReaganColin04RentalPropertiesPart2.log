@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\colin\Documents\Sinclair\C++ Software Development\Week 4\Assignment 4\ReaganColin04RentalPropertiesPart2\Source.cpp(148,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\colin\Documents\Sinclair\C++ Software Development\Week 4\Assignment 4\ReaganColin04RentalPropertiesPart2\Source.cpp(150,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  ReaganColin04RentalPropertiesPart2.vcxproj -> C:\Users\colin\Documents\Sinclair\C++ Software Development\Week 4\Assignment 4\ReaganColin04RentalPropertiesPart2\Debug\ReaganColin04RentalPropertiesPart2.exe
