@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\colin\Documents\Sinclair\C++ Software Development\Week 2\Week 2 Assignment\Searching and Sorting Game Consoles\Source.cpp(115,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\colin\Documents\Sinclair\C++ Software Development\Week 2\Week 2 Assignment\Searching and Sorting Game Consoles\Source.cpp(166,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Searching and Sorting Game Consoles.vcxproj -> C:\Users\colin\Documents\Sinclair\C++ Software Development\Week 2\Week 2 Assignment\Searching and Sorting Game Consoles\Debug\Searching and Sorting Game Consoles.exe
